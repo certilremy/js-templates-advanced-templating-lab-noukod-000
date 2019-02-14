@@ -1,4 +1,4 @@
-('Handlebars Templates Lab', function() {
+describe('Handlebars Templates Lab', function() {
   describe('page', function() {
     before(function() {
       init()
